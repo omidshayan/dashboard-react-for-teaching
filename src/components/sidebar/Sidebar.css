@@ -1,0 +1,9 @@
+*{
+    list-style: none;
+    text-decoration: none;
+}
+.sidebar{
+    width: 300px;
+    height: calc(100vh - 60px);
+    background-color: #1A1818;
+}

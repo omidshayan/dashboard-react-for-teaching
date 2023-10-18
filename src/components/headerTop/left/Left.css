@@ -1,0 +1,44 @@
+.left{
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+.left .icon{
+    margin-right: 8px;
+    cursor: pointer;
+}
+.left img{
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+}
+.notifIcon{
+    position: relative;
+}
+.notifNumber{
+    cursor: pointer;
+    background-color: red;
+    width: 15px;
+    height: 15px;
+    font-size: 15px;
+    top: -2px;
+    right: 4px;
+    text-align: center;
+    border-radius: 50%;
+    position: absolute;
+}
+.langIcon{
+    position: relative;
+}
+.langNumber{
+    cursor: pointer;
+    background-color: red;
+    width: 15px;
+    height: 15px;
+    font-size: 15px;
+    top: -2px;
+    right: 4px;
+    text-align: center;
+    border-radius: 50%;
+    position: absolute;
+}

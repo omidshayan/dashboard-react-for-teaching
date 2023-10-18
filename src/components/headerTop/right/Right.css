@@ -1,0 +1,10 @@
+.right {
+    display: flex;
+    align-items: center;
+}
+.right h4{
+    margin-right: 20px;
+}
+.logo{
+    margin-right: 10px;
+}
